@@ -1,8 +1,8 @@
-name: 📰 Update Latest Substack Posts
+name: 📰 Update Latest Articles (Substack + Medium)
 
 on:
   schedule:
-    - cron: '0 0 * * 0'
+    - cron: '0 0 * * 0'   # Runs every Sunday midnight UTC
   workflow_dispatch:
 
 permissions:
@@ -11,14 +11,15 @@ permissions:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    name: Fetch and update Substack articles
+    name: Fetch and update latest articles
     steps:
       - name: 🛠️ Checkout repository
         uses: actions/checkout@v4
 
-      - name: 📰 Pull latest posts from Substack
+      - name: 📰 Pull latest posts from Substack + Medium
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://rss.app/feeds/wIiri3ZL4510LChc.xml"
+          feed_list: "https://rss.app/feeds/wIiri3ZL4510LChc.xml, https://medium.com/feed/@iamjaywrld"
           max_post_count: 3
-          template: "- 🔗 [{{title}}]({{link}})"
+          template: "- 📝 [{{title}}]({{link}})"
+          commit_message: "📰 Updated latest articles [skip ci]"
