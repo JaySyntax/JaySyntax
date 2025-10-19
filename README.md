@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm **Jaycee Victor**
+# 👋 Hey there, I'm **Jay**
 
 ### 💻 Software Engineer | Flutter Developer | Technical Writer
 
