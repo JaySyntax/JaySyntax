@@ -16,5 +16,5 @@ jobs:
       - name: Pull in latest blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://jaytech.substack.com/feed"
+          feed_list: "https://jaytech.substack.com/feed.xml"
           max_post_count: 3
