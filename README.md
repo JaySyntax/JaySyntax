@@ -94,8 +94,7 @@ By night (and sometimes weekends 😄), I write **technical articles** that simp
 ---
 
 ## 📰 Latest Articles
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- 🔗 [{{title}}]({{link}})- 🔗 [{{title}}]({{link}})- 🔗 [{{title}}]({{link}})<!-- BLOG-POST-LIST:END -->
 
 ---
 
