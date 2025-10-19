@@ -95,11 +95,18 @@ By night (and sometimes weekends 😄), I write **technical articles** that simp
 
 ## 📰 Read My Articles
 
-I share practical insights on **mobile development**, **backend systems**, and **developer workflows** — all written to help you learn by building.
+I write about **Flutter**, **backend development**, and **engineering workflows** — breaking complex concepts into actionable lessons.
 
-📚 Check out my latest posts here:  
-- 🗞️ [Substack — JayTech](https://jaytech.substack.com)  
-- ✍️ [Medium — @jaytech](https://medium.com/@jaytech)
+<p align="center">
+  <a href="https://jaytech.substack.com">
+    <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack">
+  </a>
+  <a href="https://medium.com/@jaytech">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+</p>
+
+> 🖋️ Read my latest thoughts, tutorials, and developer stories on the platforms above.
   
 ---
 
