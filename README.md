@@ -112,7 +112,7 @@ I write about **Flutter**, **backend development**, and **engineering workflows*
 
 ## 🖋️ On the Side
 When I’m not coding or writing, you’ll probably find me:
-- 📖 Reading books (tech, psychology, or just a good novel)
+- 📖 I enjoy books that shape character, discipline, and personal growth — anything that helps me become better in life and work
 - 🎮 Playing video games to unwind and recharge
 - ☕ Brainstorming new article ideas or side projects
 
