@@ -42,6 +42,14 @@ By night (and sometimes weekends 😄), I write **technical articles** that simp
 
 ---
 
+## 🥧 Tech Stack Breakdown
+
+<p align="center">
+  <img src="https://quickchart.io/chart?c=%7Btype%3A%27pie%27%2Cdata%3A%7Blabels%3A%5B%27Flutter%2FDart%27%2C%27Backend%20(Node.js)%27%2C%27JavaScript%2FTypeScript%27%2C%27Writing%20%26%20Docs%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B45%2C30%2C15%2C10%5D%2CbackgroundColor%3A%5B%27%2302569B%27%2C%27%23339933%27%2C%27%23F7DF1E%27%2C%27%23FF6719%27%5D%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Blabels%3A%7Bcolor%3A%27white%27%2Cfont%3A%7Bsize%3A14%7D%7D%7D%7D%7D%7D&backgroundColor=transparent&width=400&height=400" />
+</p>
+
+---
+
 ## ⚙️ Tools I Use Daily
 
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
@@ -50,6 +58,7 @@ By night (and sometimes weekends 😄), I write **technical articles** that simp
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
 ![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=google-chrome&logoColor=white)
+![Brave](https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=white)
 
 ---
 
@@ -128,9 +137,11 @@ Or lost in a book about how people think and build great things.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iamjaycode/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/iamJayWrld"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://x.com/JycTheDev"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="mailto:vsquare396@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/JaySyntax"><img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.instagram.com/jayceethedev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.tiktok.com/@jayc.dev"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
 </p>
 
 ---
