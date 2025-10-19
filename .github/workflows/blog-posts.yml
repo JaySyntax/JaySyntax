@@ -1,4 +1,4 @@
-name: 📰 Update Latest Articles (Substack + Medium)
+name: 📰 Update Latest Articles (Substack)
 
 on:
   schedule:
@@ -16,10 +16,10 @@ jobs:
       - name: 🛠️ Checkout repository
         uses: actions/checkout@v4
 
-      - name: 📰 Pull latest posts from Substack + Medium
+      - name: 📰 Pull latest posts from Substack
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://rss.app/feeds/wIiri3ZL4510LChc.xml, https://medium.com/feed/@iamjaywrld"
+          feed_list: "https://rss.app/feeds/wIiri3ZL4510LChc.xml"
           max_post_count: 3
           template: "- 📝 [{{title}}]({{link}})"
           commit_message: "📰 Updated latest articles [skip ci]"
