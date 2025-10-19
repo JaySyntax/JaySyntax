@@ -16,5 +16,5 @@ jobs:
       - name: Pull in latest blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://rss.app/feeds/wIiri3ZL4510LChc.xml"
+          feed_list: "https://medium.com/@jayceebankz"
           max_post_count: 3
