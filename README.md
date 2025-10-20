@@ -11,7 +11,7 @@ By night (and sometimes weekends 😄), I write **technical articles** that simp
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaySyntax&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JycTheDev&theme=tokyonight" />
 </p>
 
 ---
@@ -88,16 +88,16 @@ By night (and sometimes weekends 😄), I write **technical articles** that simp
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaySyntax&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaySyntax&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JycTheDev&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JycTheDev&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JaySyntax&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=JycTheDev&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaySyntax&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JycTheDev&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -139,7 +139,7 @@ Or lost in a book about how people think and build great things.
   <a href="https://www.linkedin.com/in/iamjaycode/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/JycTheDev"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="mailto:vsquare396@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/JaySyntax"><img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/JycTheDev"><img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.instagram.com/jayc.dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.tiktok.com/@jayc.dev"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
 </p>
@@ -147,7 +147,7 @@ Or lost in a book about how people think and build great things.
 ---
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/jaycee"><img src="https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://www.buymeacoffee.com/jay"><img src="https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 </p>
 
 ---
